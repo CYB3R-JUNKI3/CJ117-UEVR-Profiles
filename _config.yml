@@ -1,5 +1,3 @@
-remote_theme: devich/quick@0.0.1
-
 # Your site's settings
 lang: en-US # e.g. uk, pl, en-US
 bg_color: dark # can be dark, light or auto
