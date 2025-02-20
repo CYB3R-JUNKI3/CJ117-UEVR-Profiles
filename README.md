@@ -22,7 +22,7 @@ My personal UEVR profiles and mods
 
 |  |  |
 | --- | --- |
-| ![Daymare-1994-Sandcastle-VR.](/assets/img/daymare-1994.jpg) | [Daymare-1994-Sandcastle-VR](https://github.com/CYB3R-JUNKI3/Daymare-1994-Sandcastle-VR) <br> 6DOF Motion Controller UEVR Profile + 1st Person Mod + VR Fix Mod |
+| ![Daymare-1994-Sandcastle-VR.](https://github.com/CYB3R-JUNKI3/CJ117-UEVR-Profiles/raw/main/assets/img/daymare-1994.jpg) | [Daymare-1994-Sandcastle-VR](https://github.com/CYB3R-JUNKI3/Daymare-1994-Sandcastle-VR) <br> 6DOF Motion Controller UEVR Profile + 1st Person Mod + VR Fix Mod |
 | ![Daymare-1998-VR.](/assets/img/daymare-1998.jpg) | [Daymare-1998-VR](https://github.com/CYB3R-JUNKI3/Daymare-1998-VR) <br> 6DOF Motion Controller UEVR Profile + 1st Person Mod + VR Fix Mod |
 | ![P.T.-Emulation-1.4-UEVR-Profile.](/assets/img/pt-emulation.jpg) | [P.T.-Emulation-1.4-UEVR-Profile](https://github.com/CYB3R-JUNKI3/P.T.-Emulation-1.4-UEVR-Profile) <br> Motion Controller UEVR Profile + VR Fix Mod |
 | ![Robocop-Rogue-City-VR.](/assets/img/robocop-rogue-city.jpg) | [Robocop-Rogue-City-VR](https://github.com/CYB3R-JUNKI3/Robocop-Rogue-City-VR) <br> 6DOF Motion Controller UEVR Profile + VR Fix Mod |
