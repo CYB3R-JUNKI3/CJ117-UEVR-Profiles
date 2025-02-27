@@ -2,7 +2,7 @@
 ### My personal UEVR profiles and mods
 
 <p class="ignore">
-<a href="https://cyb3r-junki3.github.io/CJ117-UEVR-Profiles/" target="_blank">Click HERE to open the site in a new window<a/>
+<a href="https://cyb3r-junki3.github.io/CJ117-UEVR-Profiles/" target="_blank">Click HERE to open the webpage<a/>
 </p>
   
 <!-- 
