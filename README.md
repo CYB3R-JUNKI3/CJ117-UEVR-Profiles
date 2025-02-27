@@ -1,10 +1,6 @@
 # <span style="color: #22a6f1">CJ117</span>-UEVR-Profiles
-### My personal UEVR profiles and mods
+### <a href="https://cyb3r-junki3.github.io/CJ117-UEVR-Profiles/">My personal UEVR profiles and mods<a/>
 
-<p class="ignore">
-<a href="https://cyb3r-junki3.github.io/CJ117-UEVR-Profiles/" target="_blank">Click HERE to open the webpage<a/>
-</p>
-  
 <!-- 
 ----
 [Terminator Resistance VR](https://github.com/CYB3R-JUNKI3/Terminator-Resistance-VR)
